@@ -31,3 +31,21 @@ public class Controller
     }
 
 }
+/*
+{
+    "nombre": "La casa",
+    "direccion": "Aca",
+    "habitaciones": [
+        {
+            "nombre": "pieza",
+            "ancho": 5.0,
+            "largo": 4.0
+        },
+        {
+            "nombre": "cocina",
+            "ancho": 4.0,
+            "largo": 3.0
+        }
+    ]
+}
+ */
